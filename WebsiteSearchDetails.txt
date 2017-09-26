@@ -1,0 +1,4 @@
+[
+    { "url": "www.gumtree.com", "search_terms": {"q": "bike", "search_location": "HA51SH", "distance": "10", "search_category": "for-sale" }},
+    { "url": "www.gumtree.com", "search_terms": {"q": "hedge trimmer", "search_location": "S12FY", "distance": "25", "search_category": "for-sale"}}
+]
